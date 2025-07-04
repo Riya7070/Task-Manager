@@ -4,10 +4,14 @@
 
 ## Features
 
-- **Add Tasks**: Users can input new tasks and add them to the list.
-- **Edit Tasks**: Users can modify the task name.
-- **Complete Tasks**: Tasks that are completed are visually crossed out.
-- **Delete Tasks**: Users can remove tasks from the list.
+- **User Authentication:** Secure signup and login functionality using JWT.
+- **Password Security:** All passwords are hashed securely using `bcrypt`.
+- **Add Tasks:** Users can input new tasks and add them to their personal task list.
+- **Edit Tasks:** Users can modify the title of existing tasks.
+- **Delete Tasks:** Users can remove tasks from the list permanently.
+- **Complete Tasks:** Tasks can be marked as completed or pending; completed tasks are visually crossed out.
+- **Task Filtering:** Users can filter tasks by **All**, **Completed**, or **Pending** for better task management.
+- **Logout:** Authenticated users can safely log out of their session.
 
 ## Tech Stack
 
