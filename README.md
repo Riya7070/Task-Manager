@@ -32,7 +32,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BavithSuvarna/Task-Manager.git
+   git clone https://github.com/Riya7070/Task-Manager.git
    ```
 2. Navigate into the project directory:
    ```bash
